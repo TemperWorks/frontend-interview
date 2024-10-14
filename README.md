@@ -4,3 +4,5 @@
 # setup
 - `npm install`
 - `npm run serve`
+
+- Archived due to this issue: https://temperworks.atlassian.net/browse/ICM-1100
